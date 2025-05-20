@@ -7,7 +7,7 @@ Ce projet Arduino met en œuvre un robot autonome capable de suivre une ligne no
 ## 👨‍💻 Développé par
 **Auteur** : [Ahmed Jendoubi](https://www.instagram.com/volk._.00011000/)
 **GitHub** : [Ahmed Jendoubi](https://github.com/AhmedGhost24)
-**Code source** : [Code source](https://github.com/AhmedGhost24)
+**Code source** : [Code source](https://github.com/AhmedGhost24/robot-suiveur-ligne)
 **Équipe projet** : 
     - Ahmed Jendoubi
     - Ahmed Yassin Trabelsi
